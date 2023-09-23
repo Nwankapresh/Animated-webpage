@@ -1,0 +1,1 @@
+This is an animated static webpage design, aimed at being used as a background 
